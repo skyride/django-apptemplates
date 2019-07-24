@@ -33,7 +33,7 @@ Version Support
 ===============
 
 django-apptemplates is `tested against`_ the officially supported combinations
-of Python and Django, since Django 1.4 (Django 1.4 to 2.0 on Python 2.6 to 3.6).
+of Python and Django, since Django 1.4 (Django 1.4 to 2.2 on Python 2.6 to 3.7).
 
 
 .. _tested against: https://travis-ci.org/bittner/django-apptemplates
